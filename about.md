@@ -1,5 +1,6 @@
 ---
 layout: page
+title: About
 ---
 
 ### About the site
