@@ -1,0 +1,63 @@
+---
+title: false
+styles: true
+---
+
+$linkColour: black;
+$hoverColour: #9da4c7;
+$focusColour: none;
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Crimson+Text:wght@400;700&display=swap");
+
+$bodytype: (
+  font-family: "Montserrat, serif",
+  regular: 500,
+  bold: 700,
+  italic: italic,
+  cap-height: 0.75
+) !default;
+
+$headingtype: (
+  font-family: '"Crimson Text", serif',
+  regular: 400,
+  bold: 700,
+  cap-height: 0.75
+) !default;
+
+
+@import "alembic";
+.feature {
+    .container {
+        min-height: 35vh;
+        max-width: 80%;
+    }
+}
+
+#captive-thoughts {
+    font-size:7vh;
+    padding-bottom: 12vh;
+    line-height: 6vh;
+}
+
+body {
+  font-size: 16px;
+  .article li {
+    margin-left: 2em !important;
+  }
+}
+
+.logo {
+  //max-height: 1.5rem;
+  img {
+    max-height: 2.5rem;
+  }
+}
+
+.footer {
+  background: white;
+}
+
+.rtBibleRef {
+  text-decoration: none;
+  outline: none;
+}

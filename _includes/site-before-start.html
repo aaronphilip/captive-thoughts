@@ -1,0 +1,20 @@
+<!-- Overwrite this file with code you want before the closing head tag -->
+<script>
+	var refTagger = {
+		settings: {
+			bibleVersion: "ESV",			
+			socialSharing: [],
+            noSearchClassNames: ["no-ref"],
+			customStyle : {
+				heading: {
+					backgroundColor : "#FFFFFF"
+				}
+			}
+		}
+	};
+	(function(d, t) {
+		var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+		g.src = "//api.reftagger.com/v2/RefTagger.js";
+		s.parentNode.insertBefore(g, s);
+	}(document, "script"));
+</script>

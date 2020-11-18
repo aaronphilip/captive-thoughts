@@ -1,0 +1,57 @@
+# Set theme
+remote_theme: daviddarnes/alembic
+
+# File excludes
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
+
+# Set plugins
+plugins:
+- jekyll-sitemap
+- jekyll-mentions
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-redirect-from
+- jekyll-default-layout
+- jekyll-feed
+- jemoji
+- jekyll-remote-theme
+
+# Site settings
+url: 'www.captivethoughts.org'
+baseurl: ''
+title: 'Captive Thoughts'
+description: ''
+permalink: pretty
+logo: "/assets/logos/logo.svg"
+google_analytics: ''
+
+sass:
+  style: compressed # Style compression
+excerpt_separator: <!-- more --> # Marks end of excerpt in posts
+timezone: America/Los_Angeles # Timezone for blog posts and alike
+
+# Pagination
+paginate: 5
+paginate_path: posts/page:num
+
+# Header nav
+navigation_header:
+- title: About
+  url: /about/
+
+# Footer nav
+navigation_footer:
+- title:
+  
+# Collections
+collections:
+  posts:
+    title: Posts
+    output: true
+    description: "My thoughts and ideas"
+    feature_text: |
+      Welcome to my blog
+    feature_image: "https://picsum.photos/2560/600?image=866"
