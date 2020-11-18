@@ -20,7 +20,7 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: 'www.captivethoughts.org'
+url: 'https://www.captivethoughts.org'
 baseurl: ''
 title: 'Captive Thoughts'
 description: ''
@@ -45,7 +45,7 @@ navigation_header:
 # Footer nav
 navigation_footer:
 - title:
-  
+
 # Collections
 collections:
   posts:
