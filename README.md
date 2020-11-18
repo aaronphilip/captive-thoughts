@@ -1,3 +1,3 @@
 # Captive Thoughts
 
-Theme based on Alembic(https://alembic.darn.es/).
+Theme based on [Alembic](https://alembic.darn.es/).
