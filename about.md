@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+aside: true
 ---
 
 ### About the site

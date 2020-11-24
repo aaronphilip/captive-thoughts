@@ -55,3 +55,7 @@ collections:
     feature_text: |
       Welcome to my blog
     feature_image: "https://picsum.photos/2560/600?image=866"
+
+social_links:
+  Facebook: https://www.facebook.com/captiveblog
+  Email: contact@captivethoughts.org
