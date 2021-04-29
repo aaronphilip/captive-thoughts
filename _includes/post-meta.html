@@ -11,9 +11,9 @@
 {% endif %}
 
 <small class="small  post-meta">
-  {% unless page.nocats == "True" %}
-    {{ categories | append: "&nbsp;&middot;&nbsp;" }}
-  {% endunless %}
   {{page.author | append: " &nbsp;&middot;&nbsp;"}}
   {% assign date_format = site.date_format | default: "%d %b %Y" %}<time datetime="{{ page.date | date_to_xmlschema }}" class="time">{{ page.date | date: date_format }}</time>
+  {% unless page.nocats == "True" %}
+    {{ categories  | prepend: "&nbsp;&middot;&nbsp; "}}
+  {% endunless %}
 </small>
