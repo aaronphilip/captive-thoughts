@@ -9,7 +9,7 @@ description: Modernism broadly defines the philosophical movement which heavily 
 
 Modernism broadly defines the philosophical movement which heavily influenced Western cultures in the 19th and early 20th centuries. Modernists believe that objective truth exists and can be discovered solely through reason, logic, and science. Modernism rejects anything that cannot be empirically tested or logically determined.
 
-Proponents of modernism believed that human reason was the key to finding moral standards and equitable systems that could be universally adopted. The movement’s vision was an egalitarian utopia ushered in through ideals such as free-market capitalism and liberal democracy. However, the horrors of the two World Wars crushed the modernist dream of utopia, opening the door for postmodernism. 
+Proponents of modernism believed that human reason was the key to finding moral standards and equitable systems that could be universally adopted. The movement’s vision was an egalitarian utopia ushered in through ideals such as free-market capitalism and liberal democracy. However, the horrors of the two World Wars crushed the modernist dream of utopia, opening the door for [postmodernism](https://www.captivethoughts.org/quick-take/2021/04/28/quick-take-postmodernism/). 
 
 
 ### What is a Biblical view of it?

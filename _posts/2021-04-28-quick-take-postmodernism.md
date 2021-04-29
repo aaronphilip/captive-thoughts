@@ -7,7 +7,7 @@ description: Postmodernism is a worldview that developed in reaction to the mode
 ---
 ### What is it?
 
-Postmodernism is a worldview that developed in reaction to the modernist movement. It rejects the existence of objective truth and the ability of scientific and technological advancement to bring about human progress. Instead, postmodernism maintains that anything perceived to be true is merely created by culture. Science, religion, or any other means of understanding the world is just one method of _making_ truth but cannot be considered more valid than any other approach. 
+Postmodernism is a worldview that developed in reaction to the [modernist movement](https://www.captivethoughts.org/quick-take/2021/04/28/quick-take-modernism/). It rejects the existence of objective truth and the ability of scientific and technological advancement to bring about human progress. Instead, postmodernism maintains that anything perceived to be true is merely created by culture. Science, religion, or any other means of understanding the world is just one method of _making_ truth but cannot be considered more valid than any other approach. 
 
 Thus, what someone believes is true about themself is merely a collection of social constructs added to the blank slate of humanity. Any disparity in the world is seen as an imbalance of power where dominant groups impose their cultural constructs on the oppressed. 
 
