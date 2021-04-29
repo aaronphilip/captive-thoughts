@@ -57,10 +57,12 @@ body {
   background: white;
 }
 
-.rtBibleRef {
-  background-image: linear-gradient(to bottom,rgba(0, 0, 0, 0) 55%,$linkColour 90%) !important;
-  &:hover {
-    background-image: linear-gradient(to bottom,rgba(0, 0, 0, 0) 55%,$hoverColour 90%) !important;
+main {
+  a {
+    background-image: linear-gradient(to bottom,rgba(0, 0, 0, 0) 55%,$linkColour 90%) !important;
+    &:hover {
+      background-image: linear-gradient(to bottom,rgba(0, 0, 0, 0) 55%,$hoverColour 90%) !important;
+    }
   }
 }
 
