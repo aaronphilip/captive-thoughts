@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Quick Take: Modernism"
+redirect_from:
+    - /quick-take/2021/04/28/quick-take-modernism/
 author: Aaron Philip
 categories: "Quick-Take"
 description: Modernism broadly defines the philosophical movement which heavily influenced Western cultures in the 19th and early 20th centuries...

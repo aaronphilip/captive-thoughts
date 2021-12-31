@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "There's More to Christianity"
+redirect_from:
+    - /general/2021/12/28/theres-more-to-christianity/
 author: Aaron Philip
 categories: "General"
 description: What kind of Christian are you? What kind of church do you attend? What kind of Christian tradition are you a part of? Why?...

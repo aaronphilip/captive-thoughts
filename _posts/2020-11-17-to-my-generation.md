@@ -3,6 +3,8 @@ layout: post
 title: To My Generation
 author: Aaron Philip
 nocats: "True"
+redirect_from:
+    - /2020/11/17/to-my-generation/
 description: "Biblical fidelity: an unwavering commitment to the authority and sufficiency of the Bible. Just as marital fidelity means total faithfulness to one's spouse, biblical fidelity..."
 ---
 
