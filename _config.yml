@@ -24,7 +24,7 @@ url: 'https://www.captivethoughts.org'
 baseurl: ''
 title: 'Captive Thoughts'
 description: ''
-permalink: pretty
+permalink: /blog/:title/
 logo: "/assets/logos/logo.svg"
 google_analytics: 'G-JRJXK5NP68'
 
