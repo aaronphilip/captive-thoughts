@@ -10,6 +10,4 @@ The name “Captive Thoughts” comes from Paul’s charge to “destroy argumen
 
 ### About the author
 
-My name is Aaron. I’m a Christian who enjoys writing about my faith in my Lord and Savior, Jesus Christ. I’m also a software engineer who hopes to attend seminary and become a pastor in the coming years. I write from a perspective that is heavily influenced by confessionally reformed Christianity.
-
-If you want to reach out to me, shoot me an email at [aaron@captivethoughts.org](mailto:aaron@captivethoughts.org). 
+My name is Aaron. I’m a Christian who enjoys writing about the faith I have in my Lord and Savior, Jesus Christ. I’m also a software engineer who's attending seminary with the goal of pursuing pastoral ministry. I write from a perspective that is heavily influenced by confessionally reformed Christianity.
