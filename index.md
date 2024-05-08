@@ -1,6 +1,6 @@
 ---
 layout: blog
-feature_image: "/assets/imgs/snow2.jpg"
+feature_image: "/assets/imgs/1924.195_web.jpg"
 feature_text: |
   # Captive Thoughts
 ---
