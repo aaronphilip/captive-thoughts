@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Making Time for Time"
-author: Aaron Philip
+author: Aaron P. Philip
 categories: 
 - General
 description: Time surrounds me. Clocks fill the spaces of my life. Nearly every device and appliance revels in the chance to mock me with the passage of time. Display after display reminds me...

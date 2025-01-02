@@ -3,7 +3,7 @@ layout: post
 title: "Quick Take: Postmodernism"
 redirect_from:
     - /quick-take/2021/04/28/quick-take-postmodernism/
-author: Aaron Philip
+author: Aaron P. Philip
 categories: "Quick-Take"
 description: Postmodernism is a worldview that developed in reaction to the modernist movement. It rejects the existence of objective truth and the ability of scientific and...
 ---

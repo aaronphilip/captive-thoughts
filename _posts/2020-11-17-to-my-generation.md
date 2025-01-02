@@ -1,7 +1,7 @@
 ---
 layout: post
 title: To My Generation
-author: Aaron Philip
+author: Aaron P. Philip
 nocats: "True"
 redirect_from:
     - /2020/11/17/to-my-generation/

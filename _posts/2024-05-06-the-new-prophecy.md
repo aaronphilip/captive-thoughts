@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The New Prophecy: Echoes of Montanism in the New Apostolic Reformation"
-author: Aaron Philip
+author: Aaron P. Philip
 categories: 
 - General
 description: \"In 1994, a Fuller Seminary professor studying church growth coined a term for a movement he believed encapsulated the most radical development in church history since the Reformation...\"

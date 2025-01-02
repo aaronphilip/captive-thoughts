@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Some Thoughts 002"
-author: Aaron Philip
+author: Aaron P. Philip
 categories: 
 - General
 - Some Thoughts
